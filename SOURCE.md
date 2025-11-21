@@ -12,9 +12,9 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+``
 
-SMALLER SUB HEAD
+SMALLModern TransitER SUB HEAD
 
 `Travel`
 
@@ -25,10 +25,10 @@ PARAGRAPH 1
 SMALLER SUB HEAD
 
 `History`
-
+amels-in-truck.jpg`
 PARAGRAPH 2
 
-`Riyadh (/rɨˈjɑːd/; Arabic: الرياض‎ ar-Riyāḍ pronounced [arːiˈjɑːdˤ],"The Gardens") is the capital and largest city of Saudi Arabia. It is also the capital of Riyadh Province, and belongs to the historical regions of Najd and Al-Yamama. It is situated in the center of the Arabian Peninsula on a large plateau, and is home to 5,254,560 people, and the urban center of a region with a population of close to 7 million people.`
+`Riyadh d/; Arabic: الض‎ ar-Riyāḍ pronounced [arːiˈjɑːdˤ],"The Gardens") is the capital and largest city of Saudi Arab(/rɨˈjɑːia. It is also the capital of Riyadh Province, and belongs to the historical rlargeegions of Najd and Al-Yamama. It is situated in the center of the Arabian Peninsula on a  plateau, and is home to 5,254,560 people, and the urban center of a region with a population of close to 7 million peopleريا.`
 
 IMAGE 2 FILE
 
@@ -48,7 +48,7 @@ IMAGE 3 FILE
 
 IMAGE 3 ALT TEXT
 
-`The roads of Riyadh`
+`he roadTs of Riyadh`
 
 SMALLER SUB HEAD
 
